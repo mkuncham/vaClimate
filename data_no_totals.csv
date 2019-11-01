@@ -1,0 +1,667 @@
+Sector,Fossil Fuel,Year,CO2 Emissions
+Commercial Sector,Coal,1980,0.347
+Commercial Sector,Coal,1981,0.244
+Commercial Sector,Coal,1982,0.467
+Commercial Sector,Coal,1983,0.492
+Commercial Sector,Coal,1984,0.54
+Commercial Sector,Coal,1985,0.49
+Commercial Sector,Coal,1986,0.44
+Commercial Sector,Coal,1987,0.584
+Commercial Sector,Coal,1988,0.532
+Commercial Sector,Coal,1989,0.357
+Commercial Sector,Coal,1990,0.443
+Commercial Sector,Coal,1991,0.268
+Commercial Sector,Coal,1992,0.37
+Commercial Sector,Coal,1993,0.595
+Commercial Sector,Coal,1994,0.627
+Commercial Sector,Coal,1995,0.581
+Commercial Sector,Coal,1996,0.818
+Commercial Sector,Coal,1997,0.379
+Commercial Sector,Coal,1998,0.38
+Commercial Sector,Coal,1999,0.271
+Commercial Sector,Coal,2000,0.182
+Commercial Sector,Coal,2001,0.271
+Commercial Sector,Coal,2002,0.16
+Commercial Sector,Coal,2003,0.215
+Commercial Sector,Coal,2004,0.196
+Commercial Sector,Coal,2005,0.259
+Commercial Sector,Coal,2006,0.056
+Commercial Sector,Coal,2007,0.174
+Commercial Sector,Coal,2008,0.186
+Commercial Sector,Coal,2009,0.218
+Commercial Sector,Coal,2010,0.21
+Commercial Sector,Coal,2011,0.223
+Commercial Sector,Coal,2012,0.121
+Commercial Sector,Coal,2013,0.125
+Commercial Sector,Coal,2014,0.164
+Commercial Sector,Coal,2015,0.125
+Commercial Sector,Coal,2016,0.082
+Commercial Sector,Natural Gas,1980,2.069
+Commercial Sector,Natural Gas,1981,1.907
+Commercial Sector,Natural Gas,1982,2.07
+Commercial Sector,Natural Gas,1983,2.095
+Commercial Sector,Natural Gas,1984,1.911
+Commercial Sector,Natural Gas,1985,1.867
+Commercial Sector,Natural Gas,1986,1.955
+Commercial Sector,Natural Gas,1987,2.172
+Commercial Sector,Natural Gas,1988,2.311
+Commercial Sector,Natural Gas,1989,2.434
+Commercial Sector,Natural Gas,1990,2.269
+Commercial Sector,Natural Gas,1991,2.435
+Commercial Sector,Natural Gas,1992,2.796
+Commercial Sector,Natural Gas,1993,2.93
+Commercial Sector,Natural Gas,1994,2.905
+Commercial Sector,Natural Gas,1995,3.109
+Commercial Sector,Natural Gas,1996,3.258
+Commercial Sector,Natural Gas,1997,3.423
+Commercial Sector,Natural Gas,1998,3.226
+Commercial Sector,Natural Gas,1999,3.385
+Commercial Sector,Natural Gas,2000,3.621
+Commercial Sector,Natural Gas,2001,3.291
+Commercial Sector,Natural Gas,2002,3.443
+Commercial Sector,Natural Gas,2003,3.517
+Commercial Sector,Natural Gas,2004,3.526
+Commercial Sector,Natural Gas,2005,3.638
+Commercial Sector,Natural Gas,2006,3.424
+Commercial Sector,Natural Gas,2007,3.655
+Commercial Sector,Natural Gas,2008,3.687
+Commercial Sector,Natural Gas,2009,3.716
+Commercial Sector,Natural Gas,2010,3.748
+Commercial Sector,Natural Gas,2011,3.499
+Commercial Sector,Natural Gas,2012,3.306
+Commercial Sector,Natural Gas,2013,3.747
+Commercial Sector,Natural Gas,2014,4.016
+Commercial Sector,Natural Gas,2015,3.841
+Commercial Sector,Natural Gas,2016,3.764
+Commercial Sector,Petroleum Products,1980,1.199
+Commercial Sector,Petroleum Products,1981,1.108
+Commercial Sector,Petroleum Products,1982,1.14
+Commercial Sector,Petroleum Products,1983,1.804
+Commercial Sector,Petroleum Products,1984,2.039
+Commercial Sector,Petroleum Products,1985,1.797
+Commercial Sector,Petroleum Products,1986,2.161
+Commercial Sector,Petroleum Products,1987,2.182
+Commercial Sector,Petroleum Products,1988,1.914
+Commercial Sector,Petroleum Products,1989,1.693
+Commercial Sector,Petroleum Products,1990,1.719
+Commercial Sector,Petroleum Products,1991,1.489
+Commercial Sector,Petroleum Products,1992,1.462
+Commercial Sector,Petroleum Products,1993,1.499
+Commercial Sector,Petroleum Products,1994,1.539
+Commercial Sector,Petroleum Products,1995,1.634
+Commercial Sector,Petroleum Products,1996,1.999
+Commercial Sector,Petroleum Products,1997,1.818
+Commercial Sector,Petroleum Products,1998,1.815
+Commercial Sector,Petroleum Products,1999,1.744
+Commercial Sector,Petroleum Products,2000,2.076
+Commercial Sector,Petroleum Products,2001,1.803
+Commercial Sector,Petroleum Products,2002,1.419
+Commercial Sector,Petroleum Products,2003,2.042
+Commercial Sector,Petroleum Products,2004,1.903
+Commercial Sector,Petroleum Products,2005,1.736
+Commercial Sector,Petroleum Products,2006,1.527
+Commercial Sector,Petroleum Products,2007,1.281
+Commercial Sector,Petroleum Products,2008,1.056
+Commercial Sector,Petroleum Products,2009,0.944
+Commercial Sector,Petroleum Products,2010,1.04
+Commercial Sector,Petroleum Products,2011,0.91
+Commercial Sector,Petroleum Products,2012,1.096
+Commercial Sector,Petroleum Products,2013,1.056
+Commercial Sector,Petroleum Products,2014,1.19
+Commercial Sector,Petroleum Products,2015,1.918
+Commercial Sector,Petroleum Products,2016,1.907
+Electric Power Sector,Coal,1980,13.04
+Electric Power Sector,Coal,1981,15.231
+Electric Power Sector,Coal,1982,15.476
+Electric Power Sector,Coal,1983,15.649
+Electric Power Sector,Coal,1984,17.373
+Electric Power Sector,Coal,1985,17.268
+Electric Power Sector,Coal,1986,17.746
+Electric Power Sector,Coal,1987,19.996
+Electric Power Sector,Coal,1988,20.406
+Electric Power Sector,Coal,1989,24.935
+Electric Power Sector,Coal,1990,21.777
+Electric Power Sector,Coal,1991,22.813
+Electric Power Sector,Coal,1992,24.321
+Electric Power Sector,Coal,1993,27.509
+Electric Power Sector,Coal,1994,25.159
+Electric Power Sector,Coal,1995,27.115
+Electric Power Sector,Coal,1996,30.858
+Electric Power Sector,Coal,1997,32.057
+Electric Power Sector,Coal,1998,32.787
+Electric Power Sector,Coal,1999,33.796
+Electric Power Sector,Coal,2000,39.032
+Electric Power Sector,Coal,2001,36.965
+Electric Power Sector,Coal,2002,37.009
+Electric Power Sector,Coal,2003,35.023
+Electric Power Sector,Coal,2004,34.39
+Electric Power Sector,Coal,2005,34.806
+Electric Power Sector,Coal,2006,33.277
+Electric Power Sector,Coal,2007,35.288
+Electric Power Sector,Coal,2008,31.288
+Electric Power Sector,Coal,2009,25.306
+Electric Power Sector,Coal,2010,25.612
+Electric Power Sector,Coal,2011,20.364
+Electric Power Sector,Coal,2012,14.483
+Electric Power Sector,Coal,2013,21.206
+Electric Power Sector,Coal,2014,20.586
+Electric Power Sector,Coal,2015,17.335
+Electric Power Sector,Coal,2016,16.659
+Electric Power Sector,Natural Gas,1980,0.134
+Electric Power Sector,Natural Gas,1981,0.126
+Electric Power Sector,Natural Gas,1982,0.173
+Electric Power Sector,Natural Gas,1983,0.184
+Electric Power Sector,Natural Gas,1984,0.174
+Electric Power Sector,Natural Gas,1985,0.084
+Electric Power Sector,Natural Gas,1986,0.047
+Electric Power Sector,Natural Gas,1987,0.095
+Electric Power Sector,Natural Gas,1988,0.061
+Electric Power Sector,Natural Gas,1989,0.209
+Electric Power Sector,Natural Gas,1990,0.534
+Electric Power Sector,Natural Gas,1991,0.874
+Electric Power Sector,Natural Gas,1992,1.307
+Electric Power Sector,Natural Gas,1993,2.198
+Electric Power Sector,Natural Gas,1994,2.212
+Electric Power Sector,Natural Gas,1995,2.459
+Electric Power Sector,Natural Gas,1996,1.729
+Electric Power Sector,Natural Gas,1997,1.056
+Electric Power Sector,Natural Gas,1998,2.081
+Electric Power Sector,Natural Gas,1999,2.273
+Electric Power Sector,Natural Gas,2000,2.016
+Electric Power Sector,Natural Gas,2001,1.808
+Electric Power Sector,Natural Gas,2002,1.898
+Electric Power Sector,Natural Gas,2003,1.919
+Electric Power Sector,Natural Gas,2004,2.656
+Electric Power Sector,Natural Gas,2005,3.664
+Electric Power Sector,Natural Gas,2006,3.294
+Electric Power Sector,Natural Gas,2007,4.946
+Electric Power Sector,Natural Gas,2008,4.246
+Electric Power Sector,Natural Gas,2009,5.217
+Electric Power Sector,Natural Gas,2010,7.65
+Electric Power Sector,Natural Gas,2011,7.761
+Electric Power Sector,Natural Gas,2012,10.402
+Electric Power Sector,Natural Gas,2013,9.417
+Electric Power Sector,Natural Gas,2014,8.776
+Electric Power Sector,Natural Gas,2015,13.624
+Electric Power Sector,Natural Gas,2016,16.489
+Electric Power Sector,Petroleum Products,1980,7.564
+Electric Power Sector,Petroleum Products,1981,3.365
+Electric Power Sector,Petroleum Products,1982,1.624
+Electric Power Sector,Petroleum Products,1983,1.33
+Electric Power Sector,Petroleum Products,1984,1.28
+Electric Power Sector,Petroleum Products,1985,0.789
+Electric Power Sector,Petroleum Products,1986,2.413
+Electric Power Sector,Petroleum Products,1987,2.256
+Electric Power Sector,Petroleum Products,1988,2.135
+Electric Power Sector,Petroleum Products,1989,3.327
+Electric Power Sector,Petroleum Products,1990,0.939
+Electric Power Sector,Petroleum Products,1991,1.617
+Electric Power Sector,Petroleum Products,1992,1.257
+Electric Power Sector,Petroleum Products,1993,1.798
+Electric Power Sector,Petroleum Products,1994,2.028
+Electric Power Sector,Petroleum Products,1995,1.072
+Electric Power Sector,Petroleum Products,1996,0.78
+Electric Power Sector,Petroleum Products,1997,1.561
+Electric Power Sector,Petroleum Products,1998,2.154
+Electric Power Sector,Petroleum Products,1999,2.446
+Electric Power Sector,Petroleum Products,2000,2.082
+Electric Power Sector,Petroleum Products,2001,3.856
+Electric Power Sector,Petroleum Products,2002,2.774
+Electric Power Sector,Petroleum Products,2003,4.36
+Electric Power Sector,Petroleum Products,2004,3.956
+Electric Power Sector,Petroleum Products,2005,3.301
+Electric Power Sector,Petroleum Products,2006,0.617
+Electric Power Sector,Petroleum Products,2007,1.545
+Electric Power Sector,Petroleum Products,2008,0.925
+Electric Power Sector,Petroleum Products,2009,0.792
+Electric Power Sector,Petroleum Products,2010,1.002
+Electric Power Sector,Petroleum Products,2011,0.381
+Electric Power Sector,Petroleum Products,2012,0.271
+Electric Power Sector,Petroleum Products,2013,0.233
+Electric Power Sector,Petroleum Products,2014,0.93
+Electric Power Sector,Petroleum Products,2015,0.869
+Electric Power Sector,Petroleum Products,2016,0.44
+Fuel Totals,Coal,1980,21.662
+Fuel Totals,Coal,1981,24.704
+Fuel Totals,Coal,1982,24.318
+Fuel Totals,Coal,1983,25.769
+Fuel Totals,Coal,1984,28.73
+Fuel Totals,Coal,1985,27.85
+Fuel Totals,Coal,1986,28.431
+Fuel Totals,Coal,1987,31.68
+Fuel Totals,Coal,1988,32.181
+Fuel Totals,Coal,1989,36.083
+Fuel Totals,Coal,1990,33.466
+Fuel Totals,Coal,1991,35.856
+Fuel Totals,Coal,1992,35.76
+Fuel Totals,Coal,1993,37.413
+Fuel Totals,Coal,1994,35.02
+Fuel Totals,Coal,1995,36.315
+Fuel Totals,Coal,1996,40.413
+Fuel Totals,Coal,1997,40.816
+Fuel Totals,Coal,1998,41.365
+Fuel Totals,Coal,1999,41.939
+Fuel Totals,Coal,2000,47.812
+Fuel Totals,Coal,2001,45.952
+Fuel Totals,Coal,2002,45.463
+Fuel Totals,Coal,2003,43.719
+Fuel Totals,Coal,2004,42.616
+Fuel Totals,Coal,2005,43.25
+Fuel Totals,Coal,2006,40.918
+Fuel Totals,Coal,2007,43.226
+Fuel Totals,Coal,2008,39.159
+Fuel Totals,Coal,2009,31.525
+Fuel Totals,Coal,2010,32.595
+Fuel Totals,Coal,2011,27.132
+Fuel Totals,Coal,2012,20.904
+Fuel Totals,Coal,2013,27.35
+Fuel Totals,Coal,2014,26.185
+Fuel Totals,Coal,2015,21.871
+Fuel Totals,Coal,2016,20.941
+Fuel Totals,Natural Gas,1980,8.536
+Fuel Totals,Natural Gas,1981,8.22
+Fuel Totals,Natural Gas,1982,8.201
+Fuel Totals,Natural Gas,1983,7.791
+Fuel Totals,Natural Gas,1984,7.881
+Fuel Totals,Natural Gas,1985,7.665
+Fuel Totals,Natural Gas,1986,7.777
+Fuel Totals,Natural Gas,1987,8.76
+Fuel Totals,Natural Gas,1988,8.997
+Fuel Totals,Natural Gas,1989,9.572
+Fuel Totals,Natural Gas,1990,10.188
+Fuel Totals,Natural Gas,1991,10
+Fuel Totals,Natural Gas,1992,11.723
+Fuel Totals,Natural Gas,1993,13.18
+Fuel Totals,Natural Gas,1994,13.814
+Fuel Totals,Natural Gas,1995,15.061
+Fuel Totals,Natural Gas,1996,14.317
+Fuel Totals,Natural Gas,1997,13.772
+Fuel Totals,Natural Gas,1998,14.399
+Fuel Totals,Natural Gas,1999,15.235
+Fuel Totals,Natural Gas,2000,14.733
+Fuel Totals,Natural Gas,2001,13.073
+Fuel Totals,Natural Gas,2002,14.158
+Fuel Totals,Natural Gas,2003,14.434
+Fuel Totals,Natural Gas,2004,15.153
+Fuel Totals,Natural Gas,2005,16.529
+Fuel Totals,Natural Gas,2006,15.039
+Fuel Totals,Natural Gas,2007,17.563
+Fuel Totals,Natural Gas,2008,16.482
+Fuel Totals,Natural Gas,2009,17.528
+Fuel Totals,Natural Gas,2010,20.468
+Fuel Totals,Natural Gas,2011,20.344
+Fuel Totals,Natural Gas,2012,22.496
+Fuel Totals,Natural Gas,2013,22.997
+Fuel Totals,Natural Gas,2014,23.276
+Fuel Totals,Natural Gas,2015,27.924
+Fuel Totals,Natural Gas,2016,30.352
+Fuel Totals,Petroleum Products,1980,52.267
+Fuel Totals,Petroleum Products,1981,45.609
+Fuel Totals,Petroleum Products,1982,42.35
+Fuel Totals,Petroleum Products,1983,43.536
+Fuel Totals,Petroleum Products,1984,46.302
+Fuel Totals,Petroleum Products,1985,46.817
+Fuel Totals,Petroleum Products,1986,50.908
+Fuel Totals,Petroleum Products,1987,53.247
+Fuel Totals,Petroleum Products,1988,55.653
+Fuel Totals,Petroleum Products,1989,54.357
+Fuel Totals,Petroleum Products,1990,51.478
+Fuel Totals,Petroleum Products,1991,50.506
+Fuel Totals,Petroleum Products,1992,50.035
+Fuel Totals,Petroleum Products,1993,51.375
+Fuel Totals,Petroleum Products,1994,52.014
+Fuel Totals,Petroleum Products,1995,51.764
+Fuel Totals,Petroleum Products,1996,52.976
+Fuel Totals,Petroleum Products,1997,55.354
+Fuel Totals,Petroleum Products,1998,56.175
+Fuel Totals,Petroleum Products,1999,56.786
+Fuel Totals,Petroleum Products,2000,60.344
+Fuel Totals,Petroleum Products,2001,61.568
+Fuel Totals,Petroleum Products,2002,59.506
+Fuel Totals,Petroleum Products,2003,65.112
+Fuel Totals,Petroleum Products,2004,69.324
+Fuel Totals,Petroleum Products,2005,69.162
+Fuel Totals,Petroleum Products,2006,66.501
+Fuel Totals,Petroleum Products,2007,66.935
+Fuel Totals,Petroleum Products,2008,60.891
+Fuel Totals,Petroleum Products,2009,56.411
+Fuel Totals,Petroleum Products,2010,55.59
+Fuel Totals,Petroleum Products,2011,52.346
+Fuel Totals,Petroleum Products,2012,54.4
+Fuel Totals,Petroleum Products,2013,54.696
+Fuel Totals,Petroleum Products,2014,54.618
+Fuel Totals,Petroleum Products,2015,53.403
+Fuel Totals,Petroleum Products,2016,52.945
+Industrial Sector,Coal,1980,8.18
+Industrial Sector,Coal,1981,9.175
+Industrial Sector,Coal,1982,8.278
+Industrial Sector,Coal,1983,9.533
+Industrial Sector,Coal,1984,10.688
+Industrial Sector,Coal,1985,9.951
+Industrial Sector,Coal,1986,10.112
+Industrial Sector,Coal,1987,10.922
+Industrial Sector,Coal,1988,11.09
+Industrial Sector,Coal,1989,10.695
+Industrial Sector,Coal,1990,11.132
+Industrial Sector,Coal,1991,12.714
+Industrial Sector,Coal,1992,10.984
+Industrial Sector,Coal,1993,9.176
+Industrial Sector,Coal,1994,9.12
+Industrial Sector,Coal,1995,8.53
+Industrial Sector,Coal,1996,8.623
+Industrial Sector,Coal,1997,8.333
+Industrial Sector,Coal,1998,8.151
+Industrial Sector,Coal,1999,7.834
+Industrial Sector,Coal,2000,8.576
+Industrial Sector,Coal,2001,8.682
+Industrial Sector,Coal,2002,8.271
+Industrial Sector,Coal,2003,8.448
+Industrial Sector,Coal,2004,8.008
+Industrial Sector,Coal,2005,8.161
+Industrial Sector,Coal,2006,7.579
+Industrial Sector,Coal,2007,7.745
+Industrial Sector,Coal,2008,7.685
+Industrial Sector,Coal,2009,6.001
+Industrial Sector,Coal,2010,6.773
+Industrial Sector,Coal,2011,6.544
+Industrial Sector,Coal,2012,6.301
+Industrial Sector,Coal,2013,6.019
+Industrial Sector,Coal,2014,5.434
+Industrial Sector,Coal,2015,4.411
+Industrial Sector,Coal,2016,4.199
+Industrial Sector,Natural Gas,1980,2.939
+Industrial Sector,Natural Gas,1981,2.845
+Industrial Sector,Natural Gas,1982,2.745
+Industrial Sector,Natural Gas,1983,2.54
+Industrial Sector,Natural Gas,1984,2.613
+Industrial Sector,Natural Gas,1985,2.791
+Industrial Sector,Natural Gas,1986,2.666
+Industrial Sector,Natural Gas,1987,3.087
+Industrial Sector,Natural Gas,1988,2.95
+Industrial Sector,Natural Gas,1989,3.206
+Industrial Sector,Natural Gas,1990,4.156
+Industrial Sector,Natural Gas,1991,3.33
+Industrial Sector,Natural Gas,1992,3.826
+Industrial Sector,Natural Gas,1993,4.104
+Industrial Sector,Natural Gas,1994,4.767
+Industrial Sector,Natural Gas,1995,5.394
+Industrial Sector,Natural Gas,1996,4.703
+Industrial Sector,Natural Gas,1997,4.788
+Industrial Sector,Natural Gas,1998,5.205
+Industrial Sector,Natural Gas,1999,5.318
+Industrial Sector,Natural Gas,2000,4.278
+Industrial Sector,Natural Gas,2001,3.68
+Industrial Sector,Natural Gas,2002,4.227
+Industrial Sector,Natural Gas,2003,3.913
+Industrial Sector,Natural Gas,2004,4.13
+Industrial Sector,Natural Gas,2005,4.227
+Industrial Sector,Natural Gas,2006,4.077
+Industrial Sector,Natural Gas,2007,4.119
+Industrial Sector,Natural Gas,2008,3.689
+Industrial Sector,Natural Gas,2009,3.468
+Industrial Sector,Natural Gas,2010,3.718
+Industrial Sector,Natural Gas,2011,3.993
+Industrial Sector,Natural Gas,2012,4.387
+Industrial Sector,Natural Gas,2013,4.642
+Industrial Sector,Natural Gas,2014,4.894
+Industrial Sector,Natural Gas,2015,5.253
+Industrial Sector,Natural Gas,2016,5.331
+Industrial Sector,Petroleum Products,1980,5.579
+Industrial Sector,Petroleum Products,1981,4.244
+Industrial Sector,Petroleum Products,1982,4.255
+Industrial Sector,Petroleum Products,1983,3.807
+Industrial Sector,Petroleum Products,1984,4.835
+Industrial Sector,Petroleum Products,1985,4.677
+Industrial Sector,Petroleum Products,1986,4.784
+Industrial Sector,Petroleum Products,1987,4.566
+Industrial Sector,Petroleum Products,1988,4.831
+Industrial Sector,Petroleum Products,1989,4.592
+Industrial Sector,Petroleum Products,1990,4.323
+Industrial Sector,Petroleum Products,1991,4.034
+Industrial Sector,Petroleum Products,1992,4.04
+Industrial Sector,Petroleum Products,1993,4.028
+Industrial Sector,Petroleum Products,1994,3.763
+Industrial Sector,Petroleum Products,1995,3.701
+Industrial Sector,Petroleum Products,1996,4.15
+Industrial Sector,Petroleum Products,1997,4.68
+Industrial Sector,Petroleum Products,1998,4.224
+Industrial Sector,Petroleum Products,1999,4.018
+Industrial Sector,Petroleum Products,2000,4.403
+Industrial Sector,Petroleum Products,2001,4.387
+Industrial Sector,Petroleum Products,2002,4.078
+Industrial Sector,Petroleum Products,2003,5.196
+Industrial Sector,Petroleum Products,2004,5.671
+Industrial Sector,Petroleum Products,2005,5.518
+Industrial Sector,Petroleum Products,2006,5.235
+Industrial Sector,Petroleum Products,2007,5.281
+Industrial Sector,Petroleum Products,2008,5.105
+Industrial Sector,Petroleum Products,2009,3.242
+Industrial Sector,Petroleum Products,2010,2.542
+Industrial Sector,Petroleum Products,2011,2.325
+Industrial Sector,Petroleum Products,2012,2.335
+Industrial Sector,Petroleum Products,2013,2.354
+Industrial Sector,Petroleum Products,2014,2.327
+Industrial Sector,Petroleum Products,2015,2.11
+Industrial Sector,Petroleum Products,2016,2.154
+Residential Sector,Coal,1980,0.095
+Residential Sector,Coal,1981,0.055
+Residential Sector,Coal,1982,0.098
+Residential Sector,Coal,1983,0.095
+Residential Sector,Coal,1984,0.129
+Residential Sector,Coal,1985,0.141
+Residential Sector,Coal,1986,0.134
+Residential Sector,Coal,1987,0.178
+Residential Sector,Coal,1988,0.153
+Residential Sector,Coal,1989,0.097
+Residential Sector,Coal,1990,0.114
+Residential Sector,Coal,1991,0.061
+Residential Sector,Coal,1992,0.084
+Residential Sector,Coal,1993,0.134
+Residential Sector,Coal,1994,0.113
+Residential Sector,Coal,1995,0.089
+Residential Sector,Coal,1996,0.114
+Residential Sector,Coal,1997,0.047
+Residential Sector,Coal,1998,0.048
+Residential Sector,Coal,1999,0.038
+Residential Sector,Coal,2000,0.023
+Residential Sector,Coal,2001,0.034
+Residential Sector,Coal,2002,0.022
+Residential Sector,Coal,2003,0.033
+Residential Sector,Coal,2004,0.022
+Residential Sector,Coal,2005,0.023
+Residential Sector,Coal,2006,0.006
+Residential Sector,Coal,2007,0.02
+Residential Sector,Coal,2008,0
+Residential Sector,Coal,2009,0
+Residential Sector,Coal,2010,0
+Residential Sector,Coal,2011,0
+Residential Sector,Coal,2012,0
+Residential Sector,Coal,2013,0
+Residential Sector,Coal,2014,0
+Residential Sector,Coal,2015,0
+Residential Sector,Coal,2016,0
+Residential Sector,Natural Gas,1980,2.949
+Residential Sector,Natural Gas,1981,2.759
+Residential Sector,Natural Gas,1982,2.618
+Residential Sector,Natural Gas,1983,2.578
+Residential Sector,Natural Gas,1984,2.823
+Residential Sector,Natural Gas,1985,2.679
+Residential Sector,Natural Gas,1986,2.841
+Residential Sector,Natural Gas,1987,3.055
+Residential Sector,Natural Gas,1988,3.22
+Residential Sector,Natural Gas,1989,3.4
+Residential Sector,Natural Gas,1990,2.845
+Residential Sector,Natural Gas,1991,2.994
+Residential Sector,Natural Gas,1992,3.438
+Residential Sector,Natural Gas,1993,3.627
+Residential Sector,Natural Gas,1994,3.577
+Residential Sector,Natural Gas,1995,3.751
+Residential Sector,Natural Gas,1996,4.191
+Residential Sector,Natural Gas,1997,4.087
+Residential Sector,Natural Gas,1998,3.497
+Residential Sector,Natural Gas,1999,3.807
+Residential Sector,Natural Gas,2000,4.367
+Residential Sector,Natural Gas,2001,3.865
+Residential Sector,Natural Gas,2002,4.145
+Residential Sector,Natural Gas,2003,4.689
+Residential Sector,Natural Gas,2004,4.523
+Residential Sector,Natural Gas,2005,4.717
+Residential Sector,Natural Gas,2006,3.937
+Residential Sector,Natural Gas,2007,4.454
+Residential Sector,Natural Gas,2008,4.386
+Residential Sector,Natural Gas,2009,4.635
+Residential Sector,Natural Gas,2010,4.795
+Residential Sector,Natural Gas,2011,4.317
+Residential Sector,Natural Gas,2012,3.868
+Residential Sector,Natural Gas,2013,4.713
+Residential Sector,Natural Gas,2014,5.165
+Residential Sector,Natural Gas,2015,4.75
+Residential Sector,Natural Gas,2016,4.3
+Residential Sector,Petroleum Products,1980,4.018
+Residential Sector,Petroleum Products,1981,3.027
+Residential Sector,Petroleum Products,1982,2.834
+Residential Sector,Petroleum Products,1983,3.092
+Residential Sector,Petroleum Products,1984,4.368
+Residential Sector,Petroleum Products,1985,4.282
+Residential Sector,Petroleum Products,1986,4.403
+Residential Sector,Petroleum Products,1987,4.497
+Residential Sector,Petroleum Products,1988,4.833
+Residential Sector,Petroleum Products,1989,4.322
+Residential Sector,Petroleum Products,1990,3.482
+Residential Sector,Petroleum Products,1991,3.266
+Residential Sector,Petroleum Products,1992,3.376
+Residential Sector,Petroleum Products,1993,3.337
+Residential Sector,Petroleum Products,1994,3.326
+Residential Sector,Petroleum Products,1995,3.267
+Residential Sector,Petroleum Products,1996,3.72
+Residential Sector,Petroleum Products,1997,3.549
+Residential Sector,Petroleum Products,1998,3.498
+Residential Sector,Petroleum Products,1999,3.322
+Residential Sector,Petroleum Products,2000,3.783
+Residential Sector,Petroleum Products,2001,3.526
+Residential Sector,Petroleum Products,2002,3.068
+Residential Sector,Petroleum Products,2003,3.526
+Residential Sector,Petroleum Products,2004,3.775
+Residential Sector,Petroleum Products,2005,3.642
+Residential Sector,Petroleum Products,2006,2.997
+Residential Sector,Petroleum Products,2007,2.844
+Residential Sector,Petroleum Products,2008,2.554
+Residential Sector,Petroleum Products,2009,2.237
+Residential Sector,Petroleum Products,2010,2.316
+Residential Sector,Petroleum Products,2011,2.033
+Residential Sector,Petroleum Products,2012,1.54
+Residential Sector,Petroleum Products,2013,1.777
+Residential Sector,Petroleum Products,2014,1.803
+Residential Sector,Petroleum Products,2015,1.745
+Residential Sector,Petroleum Products,2016,1.417
+Transportation Sector,Coal,1980,0
+Transportation Sector,Coal,1981,0
+Transportation Sector,Coal,1982,0
+Transportation Sector,Coal,1983,0
+Transportation Sector,Coal,1984,0
+Transportation Sector,Coal,1985,0
+Transportation Sector,Coal,1986,0
+Transportation Sector,Coal,1987,0
+Transportation Sector,Coal,1988,0
+Transportation Sector,Coal,1989,0
+Transportation Sector,Coal,1990,0
+Transportation Sector,Coal,1991,0
+Transportation Sector,Coal,1992,0
+Transportation Sector,Coal,1993,0
+Transportation Sector,Coal,1994,0
+Transportation Sector,Coal,1995,0
+Transportation Sector,Coal,1996,0
+Transportation Sector,Coal,1997,0
+Transportation Sector,Coal,1998,0
+Transportation Sector,Coal,1999,0
+Transportation Sector,Coal,2000,0
+Transportation Sector,Coal,2001,0
+Transportation Sector,Coal,2002,0
+Transportation Sector,Coal,2003,0
+Transportation Sector,Coal,2004,0
+Transportation Sector,Coal,2005,0
+Transportation Sector,Coal,2006,0
+Transportation Sector,Coal,2007,0
+Transportation Sector,Coal,2008,0
+Transportation Sector,Coal,2009,0
+Transportation Sector,Coal,2010,0
+Transportation Sector,Coal,2011,0
+Transportation Sector,Coal,2012,0
+Transportation Sector,Coal,2013,0
+Transportation Sector,Coal,2014,0
+Transportation Sector,Coal,2015,0
+Transportation Sector,Coal,2016,0
+Transportation Sector,Natural Gas,1980,0.445
+Transportation Sector,Natural Gas,1981,0.581
+Transportation Sector,Natural Gas,1982,0.596
+Transportation Sector,Natural Gas,1983,0.394
+Transportation Sector,Natural Gas,1984,0.36
+Transportation Sector,Natural Gas,1985,0.244
+Transportation Sector,Natural Gas,1986,0.268
+Transportation Sector,Natural Gas,1987,0.35
+Transportation Sector,Natural Gas,1988,0.455
+Transportation Sector,Natural Gas,1989,0.323
+Transportation Sector,Natural Gas,1990,0.384
+Transportation Sector,Natural Gas,1991,0.367
+Transportation Sector,Natural Gas,1992,0.356
+Transportation Sector,Natural Gas,1993,0.322
+Transportation Sector,Natural Gas,1994,0.353
+Transportation Sector,Natural Gas,1995,0.348
+Transportation Sector,Natural Gas,1996,0.435
+Transportation Sector,Natural Gas,1997,0.418
+Transportation Sector,Natural Gas,1998,0.389
+Transportation Sector,Natural Gas,1999,0.452
+Transportation Sector,Natural Gas,2000,0.451
+Transportation Sector,Natural Gas,2001,0.43
+Transportation Sector,Natural Gas,2002,0.446
+Transportation Sector,Natural Gas,2003,0.395
+Transportation Sector,Natural Gas,2004,0.318
+Transportation Sector,Natural Gas,2005,0.283
+Transportation Sector,Natural Gas,2006,0.307
+Transportation Sector,Natural Gas,2007,0.388
+Transportation Sector,Natural Gas,2008,0.473
+Transportation Sector,Natural Gas,2009,0.493
+Transportation Sector,Natural Gas,2010,0.557
+Transportation Sector,Natural Gas,2011,0.774
+Transportation Sector,Natural Gas,2012,0.533
+Transportation Sector,Natural Gas,2013,0.478
+Transportation Sector,Natural Gas,2014,0.425
+Transportation Sector,Natural Gas,2015,0.457
+Transportation Sector,Natural Gas,2016,0.468
+Transportation Sector,Petroleum Products,1980,33.908
+Transportation Sector,Petroleum Products,1981,33.867
+Transportation Sector,Petroleum Products,1982,32.496
+Transportation Sector,Petroleum Products,1983,33.502
+Transportation Sector,Petroleum Products,1984,33.78
+Transportation Sector,Petroleum Products,1985,35.272
+Transportation Sector,Petroleum Products,1986,37.147
+Transportation Sector,Petroleum Products,1987,39.746
+Transportation Sector,Petroleum Products,1988,41.94
+Transportation Sector,Petroleum Products,1989,40.423
+Transportation Sector,Petroleum Products,1990,41.015
+Transportation Sector,Petroleum Products,1991,40.1
+Transportation Sector,Petroleum Products,1992,39.9
+Transportation Sector,Petroleum Products,1993,40.714
+Transportation Sector,Petroleum Products,1994,41.357
+Transportation Sector,Petroleum Products,1995,42.091
+Transportation Sector,Petroleum Products,1996,42.327
+Transportation Sector,Petroleum Products,1997,43.746
+Transportation Sector,Petroleum Products,1998,44.483
+Transportation Sector,Petroleum Products,1999,45.256
+Transportation Sector,Petroleum Products,2000,47.999
+Transportation Sector,Petroleum Products,2001,47.997
+Transportation Sector,Petroleum Products,2002,48.167
+Transportation Sector,Petroleum Products,2003,49.988
+Transportation Sector,Petroleum Products,2004,54.021
+Transportation Sector,Petroleum Products,2005,54.966
+Transportation Sector,Petroleum Products,2006,56.125
+Transportation Sector,Petroleum Products,2007,55.985
+Transportation Sector,Petroleum Products,2008,51.25
+Transportation Sector,Petroleum Products,2009,49.197
+Transportation Sector,Petroleum Products,2010,48.689
+Transportation Sector,Petroleum Products,2011,46.697
+Transportation Sector,Petroleum Products,2012,49.157
+Transportation Sector,Petroleum Products,2013,49.277
+Transportation Sector,Petroleum Products,2014,48.368
+Transportation Sector,Petroleum Products,2015,46.761
+Transportation Sector,Petroleum Products,2016,47.027
